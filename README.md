@@ -1,5 +1,4 @@
 ### Welcome
-Java Programming
 
 <!--
 **ebower14/ebower14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Cybersecurity 2027
 
+Java Programming
 
 ```
 import java.util.Scanner;
