@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Cybersecurtiy 2027
+### Cybersecurity 2027
 
 
 ```
