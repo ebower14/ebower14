@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Cybersecurtiy 2027
 
+
 ```
 import java.util.Scanner;
  
