@@ -45,3 +45,21 @@ public class Main {
 }
  
 ```
+C++ initial input assignment
+```
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    char firstInitial, lastInitial;
+    
+    std::cout << "Please enter your first initial followed by your last initial: \n";
+    
+    cin >> firstInitial >> lastInitial;
+    
+    std::cout << "Your initials are: \n" << firstInitial << lastInitial << endl;
+    
+    return 0;
+}
+```
